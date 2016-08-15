@@ -87,6 +87,7 @@ h3 {
 }
 
 .navbar ul li {
+	padding: 0 15px 0 15px;
 	display: inline-block;
 	line-height: 50px;
 }
